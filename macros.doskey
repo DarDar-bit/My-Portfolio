@@ -1,0 +1,17 @@
+gi=git init
+ga=git add .
+gs=git status
+grm=git rm --cached 
+gra=git rm --cached .
+gc=git commit -m
+gl=git log --oneline
+gout=git checkout 
+gre=git revert
+grs=git reset
+gb=git branch
+gba=git branch -a
+gm=git merge
+gre=git remote add origin
+gp=git push origin master
+gps=git push origin
+grv=git remote -v
